@@ -1,0 +1,51 @@
+.container-pink{
+    background-color: #fbabb2;
+    
+    
+}
+.container-orange{
+    background-color: #fbc3b8;
+}
+.container-yellow{
+    background-color: #fcdbbe;
+}
+.container-pink, .container-orange, .container-yellow{
+    display: inline-block; /* Change display to inline-block */
+    margin-right: 15px; /* Add margin between containers */
+    padding-left: 15px;
+    margin-top: 15px;
+}
+.activities-text{
+    color: white;
+    
+}
+.list{
+    text-align: left;
+    color: white;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+h6{
+    color: white;
+    font-style: italic;
+}
+
+.ul{
+    align-text:left;
+}
+h2{
+    font-family:"Poppins";
+}
+p{
+    font-family: "Optima"; 
+}
+.activities{
+    
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
